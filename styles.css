@@ -1,0 +1,15 @@
+#heading
+{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: yellow;
+    background-color: blue;
+}
+.recipes
+{  
+    font-weight: bolder;
+    color: red;
+    background-color: yellowgreen;
+    font-size: larger;
+}
